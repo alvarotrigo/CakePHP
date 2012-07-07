@@ -1,4 +1,4 @@
-alvarotrigo
+README
 ===========
 
-Here i upload some public projects or functions i consider interesting.
+Here i upload some CakePHP codes.

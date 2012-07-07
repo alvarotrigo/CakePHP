@@ -1,5 +1,5 @@
 READ ME
---------------
+=============
 
 This helper offer some functions to deal with URLs as well as to determine whether it is a youtube video or an image.
 It also contains some functions to detect and erase URLs inside a text.
